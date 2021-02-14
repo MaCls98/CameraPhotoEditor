@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CameraPhotoEditor</string>
+    <string name="take_photo">Tomar foto</string>
+    <string name="no_camera_feature">Este dispositivo no cuenta con una cámara para la toma de fotografías</string>
+    <string name="dialog_permission_title">Permiso requerido</string>
+    <string name="dialog_permission_description">Este permiso es necesario para la acción que desea realizar</string>
+    <string name="dialog_permission_accept">Aceptar</string>
+    <string name="access_granted">Permiso concedido</string>
+    <string name="coming_soon">Coming soon</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="vertical">Vertical</string>
+    <string name="brightness">Brightness</string>
+    <string name="contrast">Contrast</string>
+    <string name="saturation">Saturation</string>
+    <string name="temperature">Temperature</string>
+</resources>
